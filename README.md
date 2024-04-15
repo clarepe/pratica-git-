@@ -4,6 +4,11 @@ Repositorio para prartica de comandos git
 ~~~bash
 git config  --global core.editor "code --wait"
 ~~~
+~~~bash
+git switch "e o nome do Branch" ** para trocar de branch
+git  checkout "e o nome do Branch" ** para trocar de branch
+~~~
+
 
 O comando acima define o Visual Studio Code como o editor padrão das mensagens de commit.
 
